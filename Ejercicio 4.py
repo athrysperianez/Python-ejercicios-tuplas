@@ -5,5 +5,5 @@ def iniciales(tuple):
     return result
 
 
-tuple = list([["De la fuente", "M", "Manolo"], ["Perez", "L", "Lucas"]])
+tuple = (["De la fuente", "M", "Manolo"], ["Perez", "L", "Lucas"])
 print(iniciales(tuple))
